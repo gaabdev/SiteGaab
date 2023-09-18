@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "caprasimo";
+    src: url("fonts/Caprasimo-Regular.ttf");
+  }
+  
+.titulo03 {
+    font-family: "caprasimo", serif;
+    font-size: 110%;
+  }
+
+p {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 65%;
+}
+
+h1 {
+    font-family: "caprasimo", serif;
+}
+
+.text {
+    font-size: 1.2em;
+}
+
+span {
+    color: rgb(70, 2, 172);
+    font-size: 1.5em;
+}
+
+.bnavega {
+    font-family: "caprasimo", serif;
+}
+
